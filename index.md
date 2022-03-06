@@ -1,5 +1,5 @@
 {:refdef: style="text-align: center;"}
-![teaser](teaser.PNG){:width="100%"}
+![teaser](teaser.PNG){:width="150%"}
 {: refdef}
 
 ### Abstract
