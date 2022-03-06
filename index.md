@@ -1,4 +1,4 @@
-{:refdef: style="text-align: center;"}
+{:refdef: style="text-align: left;"}
 ![teaser](teaser.PNG){:width="150%"}
 {: refdef}
 
