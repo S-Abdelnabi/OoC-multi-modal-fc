@@ -1,6 +1,6 @@
 #theme: jekyll-theme-cayman
-#title: "VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity"
-#description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
+#title: "Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources"
+#description: "Sahar Abdelnabi, Rakibul Hasan, and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
 #show_downloads: true
 
 # Welcome to Jekyll!
@@ -23,7 +23,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity " 
+title: "Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources" 
 markdown: kramdown
 theme: jekyll-theme-cayman
 #description: "Sahar Abdelnabi, Rakibul Hasan, and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
