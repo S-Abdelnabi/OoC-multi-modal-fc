@@ -12,4 +12,8 @@
 - If you want to re-crawl our evidence from the links, or crawl evidence for other subsets of the [NewsCLIPpings Dataset](https://github.com/g-luo/news_clippings), we share our [dataset collection pipeline](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/dataset_collection). 
 - If you want to access our already-crawled evidence dataset, please requrest access via this [form](https://forms.gle/HZeUK1EEveGF9yEV9). Please note that we are still in the process of preparing the dataset for sharing. 
 
+### Questions 
+For any question, please write to: sahar.abdelnabi@cispa.de
+
+
 
