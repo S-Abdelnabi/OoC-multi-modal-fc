@@ -26,7 +26,7 @@ You can find our pipeline for preprocessing the data and computing the embedding
 - - -
 
 ### Training
-We share our [training code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/training) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
+We share our [training code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/blob/main/training_and_evaluation) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
 - - -
 
 ### Checkpoints 
