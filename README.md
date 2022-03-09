@@ -35,7 +35,7 @@ coming soon
 - - -
 ### Citation ###
 
-- If you find this code helpful, please cite our paper:
+- If you find this code or dataset helpful, please cite our paper:
 ```javascript
 @inproceedings{abdelnabi2021open,
     title = {Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources},
