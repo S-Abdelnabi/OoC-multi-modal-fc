@@ -24,6 +24,15 @@ If you would like to access our already-collected evidence (along with the prepr
 ### Dataset preprocessing and embeddings computation ###
 You can find our pipeline for preprocessing the data and computing the embeddings [data_preprocessing](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/data_preprocessing). If you are using our collected evidence dataset, you can skip this step. 
 - - -
+
+### Training
+We share our [training code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/training) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
+- - -
+
+### Checkpoints 
+
+coming soon
+- - -
 ### Citation ###
 
 - If you find this code helpful, please cite our paper:
