@@ -18,5 +18,11 @@ python main_sent_emb.py --use_src --use_cap_memory --use_img_memory  --use_ent_m
 - You can adjust the paths to the datasets and these files via the arguments.
 
 #### Training using BERT+LSTM
+```
+python main_bert_lstm.py --use_src --use_cap_memory --use_img_memory  --use_ent_memory --use_places_memory 
+--inp_pdrop 0.05 --pdrop_mem 0.2 --consistency clip --pdrop 0 --nlayers 2 --domains_dim 20 --emb_pdrop 0.25 
+--lr_sched cycle --lr 0.000009 --lr_max 0.00006 --epochs 30 
+--filter_dup --binary_ner_ent --binary_ner_cap --batch_size 32 --labels_overlap --lstm_maxlen 150
+```
 
 
