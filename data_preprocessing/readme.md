@@ -15,7 +15,7 @@
 - imagehash=4.2.0
 - - -
 ### Requirments
-- You will need to have ```dataset_items_<split>.json``` files (list of items, their keys in NewsCLIPpings, and paths to direct and inverse search.
+- You will need to have ```dataset_items_<split>.json``` files (dict of dataset items, keys are NewsCLIPPings indices, each key has *'direct_path* and *inv_path*).
 - As always, you need to have access to both NewsCLIPpings and VisualNews.
 - - -
 ### Compute ResNet (ImageNet) embeddings 
