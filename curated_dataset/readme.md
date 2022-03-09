@@ -51,5 +51,5 @@ We share the raw Google search results, in addition to our preprocessing, and pr
 
 - We have a ```dataset_items_<split>.json``` file, that lists the dataset items summarizes the paths for each instance. Organized as follows: ```{<index_in_newsclippings>: {'direct_path': <path to the instance directory of direct search>, 'inv_path':  <path to the instance directory of inverse search>}}```, this already takes care of having different directories for the training data, and for assigning direct search directories to odd-indexed instances.
 - We have a *domain_to_idx_dict.json* file that maps the domains of the websites to #ids.
-- For more information on how to read the raw images and captions, please refer to our custom data loader and collate functions for embeddings precomputing. 
+- For more information on how to read the raw images and captions, please refer to our custom data loader for embeddings precomputing in [data_preprocessing](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/data_preprocessing). 
 - For more information on how to read the embeddings during training, please refer to our custom data loader and collate functions for training. 
