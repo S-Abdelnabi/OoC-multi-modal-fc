@@ -14,7 +14,9 @@ python main_sent_emb.py --use_src --use_cap_memory --use_img_memory  --use_ent_m
 --lr_sched cycle --lr 0.000009 --lr_max 0.00006 --epochs 60 
 --filter_dup --binary_ner_ent --binary_ner_cap --labels_overlap
 ```
-- You will need the *domain_to_idx_dict.json* file, in addition to ```dataset_items_<split>.json``` files (dict of dataset items, keys are NewsCLIPPings indices, each key has *'direct_path* and *inv_path*). 
+- You will need the *domain_to_idx_dict.json* file, in addition to ```dataset_items_<split>.json``` files (dict of dataset items, keys are NewsCLIPPings indices, each key has *direct_path* and *inv_path*). Should be placed in the same directory. The datasets are placed as: *../queries_dataset/*, *../visual_news/*, and *../news_clippings/*
 - You can adjust the paths to the datasets and these files via the arguments.
+
+#### Training using BERT+LSTM
 
 
