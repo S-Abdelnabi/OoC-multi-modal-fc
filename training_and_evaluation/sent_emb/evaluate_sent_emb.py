@@ -27,8 +27,6 @@ parser.add_argument('--dataset_items_file', type=str, default='dataset_items_',
                     help='location to the dataset items file')
 parser.add_argument('--domains_file', type=str, default='domain_to_idx_dict.json',
                     help='location to the domains to idx file')
-parser.add_argument('--exp_folder', type=str, default='./exp/',
-                    help='path to the folder to log the output and save the models')
                     
 ###### model details ########                    
 parser.add_argument('--domains_dim', type=int, default=20,
@@ -94,27 +92,9 @@ parser.add_argument('--batch_size', type=int, default=64,
                     help='dimension of domains embeddings') 
 parser.add_argument('--num_workers', type=int, default=6,
                     help='number of data loaders workers') 
-parser.add_argument('--epochs', type=int, default=300,
-                    help='number of epochs to run')
-parser.add_argument('--start_epoch', default=0, type=int,
-                        help='manual epoch number (useful on restarts) (default: 0)')
-parser.add_argument('--log_interval', type=int, default=200,
-                    help='how many batches')
-parser.add_argument('--checkpt', type=str, default = 'exp/best_model_acc.pth.tar', help='path to model')
-parser.add_argument('--optimizer', type=str, default='adam',
-                    help='which optimizer to use')
-parser.add_argument('--lr', type=float, default=0.00008,
-                    help='start or base learning rate') 
-parser.add_argument('--lr_max', type=float, default=0.00008,
-                    help='learning rate')                     
-parser.add_argument('--lr_sched', type=str, default='',
-                        help='use cyclic scheduler')
-parser.add_argument('--sgd_momentum', type=float, default=0.9,
-                    help='learning rate')                      
+parser.add_argument('--checkpt', type=str, default = 'exp/best_model_acc.pth.tar', help='path to model')                      
 parser.add_argument('--seed', type=int, default=1111,
                     help='random seed')
-parser.add_argument('--wdecay', default=1.2e-6, type=float,
-                        help='weight decay pow (default: -5)')
                     
 args = parser.parse_args()
 
