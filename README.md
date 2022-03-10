@@ -30,7 +30,7 @@ We share our [training and evaluation code](https://github.com/S-Abdelnabi/OoC-m
 - - -
 ### Checkpoints 
 
-Checkpoints will be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing)(coming soon).
+Checkpoints will be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing) (coming soon).
 - - -
 ### Citation ###
 
