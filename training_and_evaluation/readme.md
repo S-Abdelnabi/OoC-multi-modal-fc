@@ -44,5 +44,9 @@ python evaluate_bert_lstm.py --use_src --use_cap_memory --use_img_memory  --use_
 ```
 - This will also save under './attn_weights' the attention vectors for each memory type for each minibatch, which you can use to inspect the highest attention evidence items.
 
+### Visualizing results
+
+We also share in the ```inspect_results``` notebook an example on how to display the query example, the prediction, the evidence, and the highest attention evidence.  
+
 ### Checkpoints
 Checkpoints of these two training setups, can be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing). 
