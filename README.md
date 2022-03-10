@@ -25,13 +25,12 @@ If you would like to access our already-collected evidence (along with the prepr
 You can find our pipeline for preprocessing the data and computing the embeddings [data_preprocessing](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/data_preprocessing). If you are using our collected evidence dataset, you can skip this step. 
 - - -
 
-### Training
-We share our [training code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/blob/main/training_and_evaluation) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
+### Training and evaluation of *CCN*
+We share our [training and evaluation code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/blob/main/training_and_evaluation) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
 - - -
-
 ### Checkpoints 
 
-coming soon
+Checkpoints will be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing)(coming soon).
 - - -
 ### Citation ###
 
