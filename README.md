@@ -27,7 +27,12 @@ You can find our pipeline for preprocessing the data and computing the embedding
 
 ### Training and evaluation of *CCN*
 We share our [training and evaluation code](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/blob/main/training_and_evaluation) for two setups: 1) Training using sentence embeddings. 2) Training using BERT+LSTM. 
+
 - - -
+### Fine-tuning CLIP
+You can find our code to finetune CLIP in [finetuning_clip](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/finetuning_clip).
+- - -
+
 ### Checkpoints 
 
 Checkpoints will be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing) (coming soon).
