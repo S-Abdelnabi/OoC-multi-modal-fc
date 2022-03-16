@@ -1,5 +1,5 @@
 ## Dataset Access 
-If you like to have access to our collected evidence, please fill out this [form](https://forms.gle/HZeUK1EEveGF9yEV9).
+If you like to have access to our collected evidence, please fill out this [form](https://forms.gle/HZeUK1EEveGF9yEV9). Please note that we are still preparing the dataset for sharing, stay tuned!
 
 We share the raw Google search results, in addition to our preprocessing, and precomputed embeddings. 
 
