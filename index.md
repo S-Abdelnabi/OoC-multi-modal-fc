@@ -15,5 +15,16 @@
 ### Questions 
 For any questions, please contact: sahar.abdelnabi@cispa.de
 
+### Citation ###
+If you find our code or dataset helpful, please cite our paper:
+```javascript
+@inproceedings{abdelnabi2021open,
+    title = {Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources},
+    author = {Sahar Abdelnabi, Rakibul Hasan, Mario Fritz},
+    booktitle = {CVPR},
+    year = {2022}
+}
+```
+
 
 
