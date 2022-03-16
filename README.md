@@ -35,7 +35,7 @@ You can find our code to finetune CLIP in [finetuning_clip](https://github.com/S
 
 ### Checkpoints 
 
-Checkpoints will be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing) (coming soon).
+Checkpoints can be found [here](https://drive.google.com/drive/folders/1x266t1uHutc5iZIE02hOCrVefwqZ2qfm?usp=sharing).
 - - -
 ### Citation ###
 
