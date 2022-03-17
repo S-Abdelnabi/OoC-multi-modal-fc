@@ -23,7 +23,7 @@ We share the links that resulted from the Google search we performed using query
 If you would like to access our already-collected evidence (along with the preprocessing and precomputed embeddings), please find more details under [curated_dataset](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/curated_dataset).
 - - -
 ### Dataset preprocessing and embeddings computation ###
-You can find our pipeline for preprocessing the data and computing the embeddings [data_preprocessing](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/data_preprocessing). If you are using our collected evidence dataset, you can skip this step. 
+You can find our pipeline for preprocessing the data and computing the embeddings under [data_preprocessing](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/data_preprocessing). If you are using our collected evidence dataset, you can skip this step. 
 - - -
 
 ### Training and evaluation of *CCN*
