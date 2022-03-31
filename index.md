@@ -8,9 +8,9 @@
 ### Dataset
 - We base our evidence dataset on the [NewsCLIPpings Dataset](https://github.com/g-luo/news_clippings), that is based on the [VisualNews Dataset](https://github.com/FuxiaoLiu/VisualNews-Repository).
 - Request/download both datasets to start. 
-- We offer our evidence dataset in two formats: [links of evidence items](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/evidence_links), and the already-crawled evidence (TBD). 
+- We offer our evidence dataset in two formats: [links of evidence items](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/evidence_links), and the already-crawled evidence. 
 - If you want to re-crawl our evidence from the links, or crawl evidence for other subsets of the [NewsCLIPpings Dataset](https://github.com/g-luo/news_clippings), we share our [dataset collection pipeline](https://github.com/S-Abdelnabi/OoC-multi-modal-fc/tree/main/dataset_collection), where you can find our custom crawler. 
-- If you want to access our already-crawled evidence dataset, please requrest access via this [form](https://forms.gle/HZeUK1EEveGF9yEV9). Please note that we are still in the process of preparing the dataset for sharing. 
+- If you want to access our already-crawled evidence dataset, please requrest access via this [form](https://forms.gle/HZeUK1EEveGF9yEV9).
 
 ### Questions 
 For any questions, please contact: sahar.abdelnabi@cispa.de
