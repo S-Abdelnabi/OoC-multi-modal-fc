@@ -19,10 +19,10 @@ For any questions, please contact: sahar.abdelnabi@cispa.de
 If you find our code or dataset helpful, please cite our paper:
 ```javascript
 @inproceedings{abdelnabi22cvpr,
-title = {Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources},
-author = {Sahar Abdelnabi and Rakibul Hasan and Mario Fritz},
-year = {2022},
-booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)}
+    title = {Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources},
+    author = {Sahar Abdelnabi and Rakibul Hasan and Mario Fritz},
+    year = {2022},
+    booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)}
 }
 ```
 
