@@ -42,10 +42,10 @@ Checkpoints can be found [here](https://drive.google.com/drive/folders/1x266t1uH
 
 - If you find this code or dataset helpful, please cite our paper:
 ```javascript
-@inproceedings{abdelnabi2021open,
+@inproceedings{abdelnabi22cvpr,
     title = {Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources},
-    author = {Sahar Abdelnabi, Rakibul Hasan, Mario Fritz},
-    booktitle = {CVPR},
-    year = {2022}
+    author = {Sahar Abdelnabi and Rakibul Hasan and Mario Fritz},
+    year = {2022},
+    booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)}
 }
 ```
