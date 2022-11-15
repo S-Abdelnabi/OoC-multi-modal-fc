@@ -13,7 +13,7 @@
 - If you want to access our already-crawled evidence dataset, please request access via this [form](https://forms.gle/HZeUK1EEveGF9yEV9).
 
 ### Questions 
-For any questions, please contact: sahar.abdelnabi@cispa.de
+For any question, please contact: sahar.abdelnabi@cispa.de
 
 ### Citation ###
 If you find our code or dataset helpful, please cite our paper:
